@@ -21,7 +21,9 @@ Development-only demo accounts are created in memory mode:
 |---|---|---|
 | User | `demo@healthguard.local` | `HealthGuard!2026` |
 | Admin | `admin@healthguard.local` | `HealthGuardAdmin!2026` |
-| Driver | `driver@healthguard.local` | `HealthGuardDriver!2026` |
+| Developer | `driver@healthguard.local` | `HealthGuardDriver!2026` |
+
+Driver is changed to developer 15/09/2026
 
 Never enable demo accounts in production.
 
